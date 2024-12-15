@@ -1,7 +1,6 @@
 {
   "name": "travel",
   "private": true,
-  "homepage": "https://leod101.github.io/Travel/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
